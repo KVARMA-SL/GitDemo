@@ -1,7 +1,0 @@
-I am going to add this to the GitHub
-Before that i am going to connect this project to my GitHub account 
-for that u need to 
-
-cmd 
-git config--global user.name  "KVARMA-SL"
-
